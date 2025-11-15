@@ -1,0 +1,24 @@
+{
+    "cSpell.words": [
+        "htmlhint",
+        "uiarea",
+        "sap_horizon",
+        "horizon",
+        "sapUiBody",
+        "sapUiSizeCompact",
+        "displayBlock",
+        "project1",
+        "idApp",
+        "sap-ui-bootstrap",
+        "data-sap-ui-theme",
+        "data-sap-ui-resource-roots",
+        "data-sap-ui-on-init",
+        "data-sap-ui-compat-version",
+        "data-sap-ui-async",
+        "data-sap-ui-frame-options",
+        "sap.m",
+        "mvc",
+        "ComponentSupport"
+    ],
+    "html.validate.scripts": false
+}
